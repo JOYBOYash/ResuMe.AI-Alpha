@@ -4,5 +4,5 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-![Screenshot 2024-10-05 121607](https://github.com/user-attachments/assets/7efbfa2f-50b1-4599-b512-74ef49c2a957)
-![Screenshot 2024-10-05 121618](https://github.com/user-attachments/assets/39b089b6-153b-4b9e-b341-42cfbf935ffa)
+![Screenshot 2024-10-05 121850](https://github.com/user-attachments/assets/5565db26-00db-4e9c-801f-8d80a85f9c39)
+![Screenshot 2024-10-05 121906](https://github.com/user-attachments/assets/7e236298-aeaa-4415-9976-641e4dd0ba70)
